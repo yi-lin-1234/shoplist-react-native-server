@@ -1,0 +1,1 @@
+# shoplist-react-native-server
